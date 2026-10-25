@@ -19,9 +19,9 @@ Pi 具备优秀的可定制性，你可以在[这里](https://pi.dev/packages)�
 
 ## 模型
 
-[DeepSeek](https://www.deepseek.com/) 凭借极致的性价比和优秀的信誉，成为了我以及许多人的首选。
+[DeepSeek](https://www.deepseek.com/) 凭借极致的性价比与优秀的信誉，成为了我和许多人的首选。
 
-模型推荐 `deepseek-flash`，思考档位推荐 `high`。
+模型推荐 `deepseek-flash`，思考档位推荐 `high`，这是日常开发中的甜点配置。
 
 开放平台：https://platform.deepseek.com/usage
 

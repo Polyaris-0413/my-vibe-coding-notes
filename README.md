@@ -9,13 +9,15 @@
 仓库地址：https://github.com/earendil-works/pi
 
 ### 扩展
-Pi 具备优秀的可定制性，你可以在[这里](https://pi.dev/packages)下载所有被官方收录的扩展。
+
+Pi 具备优秀的可定制性，你可以在 [这里](https://pi.dev/packages) 下载所有被官方收录的扩展。
 
 以下是我在用的一些扩展：
+
 | 扩展 | 功能 | 安装 |
 | --- | --- | --- |
-| `pi-web-access` | 提供网页搜索、内容提取和视频理解 | pi install npm:pi-web-access |
-| `pi-tool-one-line` | 折叠工具输出及思维链 | 前往[仓库](https://github.com/Polyaris-0413/pi-tool-one-line)下载 .ts 文件 |
+| `pi-web-access` | 提供网页搜索、内容提取和视频理解 | `pi install npm:pi-web-access` |
+| `pi-tool-one-line` | 折叠工具输出及思维链 | 前往 [仓库](https://github.com/Polyaris-0413/pi-tool-one-line) 下载 `.ts` 文件 |
 
 ## 模型
 
@@ -23,9 +25,8 @@ Pi 具备优秀的可定制性，你可以在[这里](https://pi.dev/packages)�
 
 模型推荐 `deepseek-flash`，思考档位推荐 `high`，这是日常开发中的甜点配置。
 
-开放平台：https://platform.deepseek.com/usage
-
-接口文档：https://api-docs.deepseek.com/zh-cn/
+- 开放平台：https://platform.deepseek.com/usage
+- 接口文档：https://api-docs.deepseek.com/zh-cn/
 
 ## Skill
 
@@ -45,3 +46,4 @@ Pi 具备优秀的可定制性，你可以在[这里](https://pi.dev/packages)�
 
 ```bash
 pi install git:github.com/obra/superpowers
+```

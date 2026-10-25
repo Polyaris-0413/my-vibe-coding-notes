@@ -2,11 +2,11 @@
 
 本项目记录了我当前的 vibe coding 配置及一些经验，可供大家参考。
 
-## Agent Harness
+## Agent 框架
 
-我需要一个轻量、稳定、且口碑经社区验证的 agent；而 [Pi](https://pi.dev/) 的设计哲学满足了第一点，实际表现则满足了后两点。
+我需要一个轻量、稳定、且口碑经社区验证的 Agent；而 [Pi](https://pi.dev/) 的设计哲学满足了第一点，实际表现则满足了后两点。
 
-仓库地址：https://github.com/earendil-works/pi
+仓库地址：[earendil-works/pi](https://github.com/earendil-works/pi)
 
 ### 扩展
 
@@ -25,24 +25,24 @@ Pi 具备优秀的可定制性，你可以在[这里](https://pi.dev/packages)�
 
 模型推荐 `deepseek-flash`，思考档位推荐 `high`，这是日常开发中的甜点配置。
 
-- 开放平台：https://platform.deepseek.com/usage
-- 接口文档：https://api-docs.deepseek.com/zh-cn/
+- 开放平台：[platform.deepseek.com/usage](https://platform.deepseek.com/usage)
+- 接口文档：[api-docs.deepseek.com/zh-cn](https://api-docs.deepseek.com/zh-cn/)
 
-## Skill
+## 技能
 
 ### karpathy-guidelines
 
 约束 LLM 的编码过程，减少未经确认的假设、过度设计、非必要改动及缺乏验证标准等常见失误。
 
-仓库地址：https://github.com/multica-ai/andrej-karpathy-skills/
+仓库地址：[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills/)
 
 ### superpowers
 
-一套完整的软件开发方法论，规范化 agent 的开发流程。
+一套完整的软件开发方法论，规范化 Agent 的开发流程。
 
-仓库地址：https://github.com/obra/superpowers
+仓库地址：[obra/superpowers](https://github.com/obra/superpowers)
 
-> 如果你正在使用 Pi：superpowers 允许以扩展的形式安装，命令如下↓
+> 如果你正在使用 Pi，可通过扩展安装 superpowers：
 
 ```bash
 pi install git:github.com/obra/superpowers
@@ -52,8 +52,8 @@ pi install git:github.com/obra/superpowers
 
 本章节将列出一些我正在使用且具有通用性的规则，你可以将它们添加到本地的 `AGENTS.md` 文件中。
 
-  > 上述 skills 已包含大量规则，这里只补充我个人额外使用的部分。
- 
+> 上述技能已包含大量规则，这里只补充我个人额外使用的部分。
+
 ### 减少冗余
 
 ```markdown

@@ -9,7 +9,7 @@
 仓库地址：https://github.com/earendil-works/pi
 
 ### 扩展
-Pi 具备优秀的可定制性，你可以在 [这里](https://pi.dev/packages) 下载所有被官方收录的扩展。
+Pi 具备优秀的可定制性，你可以在[这里](https://pi.dev/packages)下载所有被官方收录的扩展。
 
 以下是我在用的一些扩展：
 | 扩展 | 功能 | 安装 |
@@ -18,4 +18,14 @@ Pi 具备优秀的可定制性，你可以在 [这里](https://pi.dev/packages) 
 | `pi-tool-one-line` | 折叠工具输出及思维链 | 前往[仓库](https://github.com/Polyaris-0413/pi-tool-one-line)下载 .ts 文件 |
 
 ## 模型
+
+[DeepSeek](https://www.deepseek.com/) 凭借极致的性价比和优秀的信誉，成为了我以及许多人的首选。
+
+模型推荐 `deepseek-flash`，思考档位推荐 `high`。
+
+开放平台：https://platform.deepseek.com/usage
+
+接口文档：https://api-docs.deepseek.com/zh-cn/
+
+
  

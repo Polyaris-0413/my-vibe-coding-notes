@@ -33,7 +33,7 @@ Pi 具备优秀的可定制性，你可以在[这里](https://pi.dev/packages)�
 
 约束 LLM 的编码过程，减少未经确认的假设、过度设计、非必要改动及缺乏验证标准等常见失误。
 
-仓库地址：https://github.com/multica-ai/andrej-karpathy-skills/tree/main
+仓库地址：https://github.com/multica-ai/andrej-karpathy-skills/
 
 ### superpowers
 
@@ -41,7 +41,7 @@ Pi 具备优秀的可定制性，你可以在[这里](https://pi.dev/packages)�
 
 仓库地址：https://github.com/obra/superpowers
 
-  > 如果你正在使用 Pi，你可以直接安装 Superpowers 的[扩展](pi install git:github.com/obra/superpowers)
+> 如果你正在使用 Pi：superpowers 允许以扩展的形式安装，命令如下
 
-
- 
+```bash
+pi install git:github.com/obra/superpowers

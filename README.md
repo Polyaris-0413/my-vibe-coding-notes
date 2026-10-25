@@ -41,7 +41,7 @@ Pi 具备优秀的可定制性，你可以在[这里](https://pi.dev/packages)�
 
 仓库地址：https://github.com/obra/superpowers
 
-> 如果你正在使用 Pi：superpowers 允许以扩展的形式安装，命令如下
+> 如果你正在使用 Pi：superpowers 允许以扩展的形式安装，命令如下↓
 
 ```bash
 pi install git:github.com/obra/superpowers

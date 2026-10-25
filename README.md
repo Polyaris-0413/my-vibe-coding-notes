@@ -27,5 +27,19 @@ Pi 具备优秀的可定制性，你可以在[这里](https://pi.dev/packages)�
 
 接口文档：https://api-docs.deepseek.com/zh-cn/
 
+## Skill
+
+### karpathy-guidelines
+
+约束 LLM 的编码过程，减少未经确认的假设、过度设计、非必要改动及缺乏验证标准等常见失误。
+
+仓库地址：https://github.com/multica-ai/andrej-karpathy-skills/tree/main
+
+### superpowers
+
+一套完整的软件开发方法论，规范化 agent 的开发流程。
+
+仓库地址：https://github.com/obra/superpowers
+
 
  

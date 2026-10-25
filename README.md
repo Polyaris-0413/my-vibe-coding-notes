@@ -52,7 +52,7 @@ pi install git:github.com/obra/superpowers
 
 本章节将列出一些我正在使用且具有通用性的规则，你可以将它们添加到本地的 `AGENTS.md` 文件中。
 
-  > 上述 skills 已内置大量规则，这里只补充我个人额外使用的部分。
+  > 上述 skills 已包含大量规则，这里只补充我个人额外使用的部分。
  
 ### 减少冗余
 
@@ -83,4 +83,4 @@ pi install git:github.com/obra/superpowers
 - 补丁式修复应覆盖所有的同类变体，不得只针对当前样本。
 ```
 
-作用：避免 AI 做表现修复。
+作用：避免 AI 做表面修复。

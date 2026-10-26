@@ -106,3 +106,6 @@ pi install git:github.com/obra/superpowers
 - 执行命令时应设立看门狗，避免在执行命令时卡住。
 ```
 作用：避免命令执行卡住导致任务无法继续。
+
+## 更多项目
+- [事不宜迟](https://github.com/Polyaris-0413/FreshNow)：一款借助 LLM 管理食品保质期的应用，由我主导开发。

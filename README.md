@@ -32,15 +32,17 @@ Pi 具备优秀的可定制性，你可以在[这里](https://pi.dev/packages)�
 
 ## 技能
 
+以下是我在用的技能：
+
 ### karpathy-guidelines
 
-约束 LLM 的编码过程，减少未经确认的假设、过度设计、非必要改动及缺乏验证标准等常见失误。
+作用：约束 LLM 的编码过程，减少未经确认的假设、过度设计、非必要改动及缺乏验证标准等常见失误。
 
 仓库地址：[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills/)
 
 ### superpowers
 
-一套完整的软件开发方法论，规范化 Agent 的开发流程。
+作用：提供一套完整的软件开发方法论，规范 Agent 的开发流程。
 
 仓库地址：[obra/superpowers](https://github.com/obra/superpowers)
 
@@ -82,13 +84,13 @@ pi install git:github.com/obra/superpowers
 ### 注释
 
 ```markdown
-- 注释应仅写代码无法表达的原因与出处；不得"达到预期"式复述代码行为，不得保留与代码不符的注释。
+- 注释应仅写代码无法表达的原因与出处；不得“达到预期”式复述代码行为，不得保留与代码不符的注释。
   > 原因只写结论，不写推导过程。
 
 - 不得写没有防错价值的注释。
 ```
 
-作用：避免留下无价值或带有误导性、影响阅读的注释。
+作用：避免留下无阅读价值或误导性的注释。
 
 ### 漏洞修复
 
@@ -103,5 +105,4 @@ pi install git:github.com/obra/superpowers
 ```markdown
 - 执行命令时应设立看门狗，避免在执行命令时卡住。
 ```
-作用：避免因命令语法错误导致任务卡死。
-
+作用：避免命令执行卡住导致任务无法继续。

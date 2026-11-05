@@ -2,8 +2,6 @@
 
 本项目记录了我当前的 vibe coding 配置及一些经验，可供大家参考。
 
-文档更新时间：2026年10月31日
-
 ## Agent 框架
 
 我需要一个轻量、稳定、且口碑经社区验证的 Agent；而 [Pi](https://pi.dev/) 的设计哲学满足了第一点，实际表现则满足了后两点。
@@ -19,7 +17,6 @@ Pi 具备优秀的可定制性，你可以在[这里](https://pi.dev/packages)�
 | 扩展 | 功能 | 安装 |
 | --- | --- | --- |
 | `pi-web-access` | 提供网页搜索、内容提取和视频理解 | `pi install npm:pi-web-access` |
-| `pi-tool-one-line` | 折叠工具输出及思维链 | 前往[仓库](https://github.com/Polyaris-0413/pi-tool-one-line)下载 `.ts` 文件 |
 
 ## 模型
 
@@ -106,6 +103,3 @@ pi install git:github.com/obra/superpowers
 - 执行命令时应设立看门狗，避免在执行命令时卡住。
 ```
 作用：避免命令执行卡住导致任务无法继续。
-
-## 更多项目
-- [食不宜迟](https://github.com/Polyaris-0413/FreshNow)：一款由我主导开发的食品保质期管理应用，结合 LLM 技术。

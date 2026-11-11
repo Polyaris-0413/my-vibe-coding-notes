@@ -18,8 +18,8 @@ Pi 具备优秀的可定制性，你可以在[这里](https://pi.dev/packages)�
 
 | 扩展 | 功能 | 安装 |
 | --- | --- | --- |
-| `pi-web-access` | 提供网页搜索、内容提取和视频理解 | `pi install npm:pi-web-access` |
-| `pi-collapse-tool-output` | 折叠工具调用的具体输出内容 | `pi install https://github.com/Polyaris-0413/pi-collapse-tool-output` |
+| `web-access` | 提供网页搜索、内容提取和视频理解 | `pi install npm:pi-web-access` |
+| `collapse-tool-output` | 折叠工具调用的具体输出内容 | `pi install https://github.com/Polyaris-0413/pi-collapse-tool-output` |
 
 ## 模型
 

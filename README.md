@@ -54,7 +54,7 @@ pi install git:github.com/obra/superpowers
 
 ### material-3-skill
 
-作用：为 Agent 提供 Material Design 3 规范与组件参考
+作用：为 Agent 提供 Material Design 3 规范与组件参考。
 
 仓库地址：[hamen/material-3-skill](https://github.com/hamen/material-3-skill)
 
@@ -103,6 +103,18 @@ pi install git:github.com/obra/superpowers
 ```
 
 作用：避免做表面修复。
+
+### 文件
+
+```markdown
+- 由 agent 生成的文件应分类存放在 `C:\Users\Administrator\ai_workspace` 路径下，另有明确指定存放路径的除外。
+
+  > 生成文件无复用价值时，应在任务完成后立即删除。
+```
+
+作用：避免文件存储过于分散，并防止留下临时文件。
+
+  > 使用该规则时，应将 `C:\Users\Administrator\ai_workspace` 替换为本机对应路径。
 
 ### 命令
 
